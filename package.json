@@ -1,0 +1,14 @@
+{
+  "name": "crc32mhash",
+  "version": "1.0.0",
+  "description": "Calculate crc32mhash from the supplied string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-crc": "^3.0.2"
+  }
+}
